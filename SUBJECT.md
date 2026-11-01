@@ -8,8 +8,6 @@ The system manages customer accounts, processes internal transfers and merchant 
 
 The primary objective is to build a realistic database system while developing a deep understanding of Oracle PL/SQL, from core language features to advanced transaction management, bulk processing, security, and performance tuning.
 
-This is an educational portfolio project. It must not be used to process real money or store real customer financial data.
-
 ## 2. Project Goals
 
 The project should demonstrate the ability to:

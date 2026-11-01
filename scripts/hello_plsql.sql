@@ -1,0 +1,6 @@
+SET SERVEROUTPUT ON;
+
+BEGIN
+    DBMS_OUTPUT.PUT_LINE('AtlasPay PL/SQL engine started.');
+END;
+/
